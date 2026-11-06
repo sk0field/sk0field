@@ -1,4 +1,4 @@
-Hi, I'm Sulaimon Shittu 👋
+Hi, I'm sk0field
 Frontend developer and aspiring AI automation specialist and backend developer, based in Lagos, Nigeria.
 I build and design websites with HTML, CSS and JavaScript, and I'm learning software development project-first: building real things, in public, and solving real-world problems — on the way from AI automation → backend development → cybersecurity.
 🎯 My path
